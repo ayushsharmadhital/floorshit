@@ -9,7 +9,7 @@
 Visualizing NEPSE daily floor-sheet. via terminal or "CMD"
 
 ## Installation and Usage
-   - Clone the nepsee repo to your local PC.
+   - Clone the "floorshit" repo to your local PC.
    
       `$ git clone https://github.com/efexos/floorshit`
  
