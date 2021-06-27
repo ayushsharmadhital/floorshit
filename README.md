@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/efexos-nepsee-brightgreen)
-![](https://img.shields.io/badge/version-2.1.4-purple)
+![](https://img.shields.io/badge/version-1.0.0-purple)
 
 ![](https://img.shields.io/badge/-Javascript-orange)
 ![](https://img.shields.io/badge/-NPM-blueviolet)
