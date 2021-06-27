@@ -1,0 +1,27 @@
+{
+  "uselessId": 329,
+  "floorsheetUpdateInterval": 15000,
+  "table": {
+    "tableListSize": "47",
+    "align": "left",
+    "border": "line",
+    "width": "100%",
+    "height": "100%",
+    "top": "0",
+    "style": {
+      "border": {
+        "fg": "yellow"
+      },
+      "header": {
+        "fg": "blue",
+        "bold": true
+      },
+      "cell": {
+        "selected": {
+          "fg": "#E18A07",
+          "bold": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "floorshit",
+  "version": "1.0.0",
+  "description": "Get and Interact with live trade data i.e, floorsheet of NEPSE.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "savefs": "node modules/dwnFs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efexos/floorshit.git"
+  },
+  "keywords": [
+    "Nepse",
+    "Nepalstock",
+    "floorsheet",
+    "floorshit"
+  ],
+  "author": "efexos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efexos/floorshit/issues"
+  },
+  "homepage": "https://github.com/efexos/floorshit#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.14.0",
+    "chrome-remote-interface": "^0.30.1",
+    "neo-blessed": "^0.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
