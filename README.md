@@ -43,4 +43,4 @@ Visualizing NEPSE daily floor-sheet. via terminal or "CMD"
 
    > Contact Me || Buy me a drink(e-sewa):: +977-9862177635 
 
-![](https://github.com/efexos/floorshit/blob/master/git.png)
+![](https://github.com/efexos/floorshit/blob/main/git.png)
